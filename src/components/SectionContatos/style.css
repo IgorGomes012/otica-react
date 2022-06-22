@@ -1,0 +1,37 @@
+#section-contatos{
+  width: 100%;
+  color: #fff;
+  padding: 100px 20px;
+  background-color: #05031b;
+}
+
+.title-contatos{
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.element-contatos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 15px;
+}
+
+.element-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.img-text-contatos{
+  display: flex;
+  align-items: center;
+  margin:5px
+}
+.img-text-contatos > p > img{
+  width: 18px;
+}
+
+.img-text-contatos > p{
+  font-size: 14px;
+  margin-left: 10px;
+}
